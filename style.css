@@ -6,6 +6,18 @@ background-color: aqua;
 background-color: rgb(9, 135, 174);
  }
 
+.estudante-div {
+ text-align: center;
+padding: 50px 0;
+
+}
+.estudante-titulo {
+    text-align: center;
+    padding: 16px 0;
+}
+.estudante-imagem {
+    width: 80%; //cuidado com seu tamanho
+}
 footer {
 background-color: black;
 }
