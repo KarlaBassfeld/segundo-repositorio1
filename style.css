@@ -17,7 +17,19 @@ padding: 50px 0;
 }
 .estudante-imagem {
     width: 45%; /*cuidado com seu tamanho*/
+
 }
+
+.estudante-ícone {
+    width: 25px;
+   padding:4px 8px;
+}
+
 footer {
 background-color: black;
+}
+
+.rodape {
+     background-color: #00000;
+     text-align: center;
 }
